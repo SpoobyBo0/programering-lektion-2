@@ -42,7 +42,7 @@ while gameover:
     fråga2 = input("Vad blir en kickflip + shuv?\n").lower()
     if fråga2 == "varialflip":
         scoore += 1
-        print(f"Rätt svar! Du har nu {scoore} poäng")
+        print(f"Rätt svar! Du har nu {scoore} poäng " )
         break
         
     else:
